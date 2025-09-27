@@ -1,0 +1,1 @@
+import{b as m,j as i}from"./index-EjvHy6Kc.js";import{I as b}from"./Input-BjZrCKDZ.js";import{u as f}from"./useDebounce-D3UJ43fs.js";const d=m.forwardRef((n,o)=>{const{wait:a=500,...u}=n;function c(e){var t;(t=n.onChange)==null||t.call(n,e)}const s=f(c,a),r=e=>{s(e)};return i.jsx(b,{ref:o,...u,onChange:r})});d.displayName="DebouceInput";export{d as D};

@@ -1,0 +1,1 @@
+import{b as m}from"./index-EjvHy6Kc.js";function l(t,r,a){let n=0;return m.Children.map(t,e=>{if(!m.isValidElement(e))return e;const o=r.call(a,e,n);return n+=1,o})}function u(t,r,a){return l(t,(n,e)=>m.cloneElement(n,{key:e,...r(n,e)}),a)}export{u as m};

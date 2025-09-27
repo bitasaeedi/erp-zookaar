@@ -1,0 +1,1 @@
+import{M as r}from"./index-EjvHy6Kc.js";async function i(t){return r.fetchDataWithAxios({url:"/orders",method:"get",params:t})}async function o({id:t,...e}){return r.fetchDataWithAxios({url:`/orders/${t}`,method:"get",params:e})}export{i as a,o as b};

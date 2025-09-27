@@ -1,0 +1,1 @@
+import{u,H as e,t as s,L as o}from"./index-EjvHy6Kc.js";const E=()=>{const t=u(a=>a.layout.type);return{getTopGapValue:()=>{switch(t){case o:return e+24;case s:return e+24;default:return e+24}}}};export{E as u};

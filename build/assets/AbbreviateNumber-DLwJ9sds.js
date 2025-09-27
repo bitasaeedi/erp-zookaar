@@ -1,0 +1,1 @@
+import{j as t}from"./index-EjvHy6Kc.js";const s=({value:r})=>{function i(e){return e>=1e6?(e/1e6).toFixed(1)+"M":e>=1e3?(e/1e3).toFixed(1)+"K":e.toFixed(0).toString()}return t.jsx(t.Fragment,{children:i(r)})};export{s as A};
